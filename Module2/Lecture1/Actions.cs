@@ -14,7 +14,7 @@ namespace Lecture1
 
         public Result Info()
         {
-            result.ErrorMessage = $"Start: {Info}";
+            result.ErrorMessage = $"Start: @Info@";
             result.Status = true;
             logger.Add(Logger.TypeLog.Info, result.ErrorMessage);
             return result;
@@ -22,7 +22,7 @@ namespace Lecture1
 
         public Result Warning()
         {
-            result.ErrorMessage = $"Skipped logic: {Warning}";
+            result.ErrorMessage = $"Skipped logic: @Warning@";
             result.Status = true;
             logger.Add(Logger.TypeLog.Warning, result.ErrorMessage);
             return result;
