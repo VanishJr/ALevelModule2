@@ -1,0 +1,100 @@
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Info : Start: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Error : Failed: Oops, it's broken
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
+16.11.2021 18:55:20 : Warning : Skipped logic: System.Func`1[Lecture1.Result]
