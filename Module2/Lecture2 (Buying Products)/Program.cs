@@ -1,39 +1,96 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Lection1.Version2
+namespace Lecture2__Buying_Products_
 {
-    internal class Program
+    class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
-             Item[] items =
-        {
-            new Item { Name = "Coat", Price = nullable },
-            new Item { Name = "Jacket", Price = nullable },
-            new Item { Name = "Jeans", Price = nullable },
-            new Item { Name = "T-shirt", Price = nullable },
-            new Item { Name = "Sweatshirts", Price = nullable },
-            new Item { Name = "Cardigans", Price = nullable },
-            new Item { Name = "Pants", Price = nullable },
-            new Item { Name = "Vests", Price = nullable },
-            new Item { Name = "Jacket-shirts", Price = nullable },
-            new Item { Name = "Shorts", Price = nullable }
-        };
+            Console.WriteLine("Welcome to Shop!\n" + 
+                "by Ivan Logutov\n" + 
+                "_________________");
 
-        double sum = 0;
-        foreach (Item item in items)
-        {
-            sum += item.Price;
-            Console.WriteLine($"Товар {item.Name} по цене {item.Price}");
+            var mainShop = new Shop();
+
+            var work = true;
+
+            while (work)
+            {
+                Console.WriteLine("\nPlease choose what do you want to do:\n" +
+                    "1. To see list of available goods;\n" +
+                    "2. To buy something;\n" +
+                    "3. To add more goods;\n" +
+                    "4. To exit the shop.");
+                Console.Write("Enter number of your choice:");
+
+                var choice = Convert.ToInt32(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1:
+                        mainShop.ShowList();
+                        break;
+                    case 2:
+                        var buying = true;
+                        while (buying)
+                        {
+
+                            Console.WriteLine("\nChoose what do you want to buy:\n" +
+                                "1. Laptops;\n" +
+                                "2. Telephones;\n" +
+                                "3. Headphones.");
+                            Console.Write("Enter number of your choice:"); 
+
+                            var choiceOfGood = Convert.ToInt32(Console.ReadLine());
+
+                            mainShop.Buy(choiceOfGood);
+
+                            Console.Write("\nDo you want to go back to main menu?(y/n): ");
+                            var answerBuy = Console.ReadLine();
+                            buying = answerBuy == "n"; 
+                        }
+                        break;
+                    case 3:
+                        var adding = true;
+                        while (adding)
+                        {
+                            Console.WriteLine("\nChoose what do you want to add:\n" +
+                                              "1. Laptops;\n" +
+                                              "2. Telephones;\n" +
+                                              "3. Headphones.");
+                            Console.Write("Enter number of your choice: ");
+
+                            var choiceOfGood = Convert.ToInt32(Console.ReadLine());
+
+                            mainShop.Add(choiceOfGood);
+
+                            Console.Write("Do you want to go back to main menu?(y/n): ");
+                            var answerAdd = Console.ReadLine();
+                            adding = answerAdd == "n";
+                        }
+                        break;
+                    case 4:
+                        Console.WriteLine("Good Buy!");
+                        work = false;
+                        break;
+                }
+            }
+
+            void ShowMainMenu() 
+            {
+                Console.WriteLine("Please choose what do you want to do:\n " +
+                    "1. To see list of available goods;\n" + 
+                    "2. To buy something;\n" +
+                    "3. To add more goods;\n" +
+                    "4. To exit the shop.");
+                Console.Write("Enter number of your choice:");
+            }
         }
-        Console.WriteLine($"Общая цена: {sum}");
-    }
 
-    private struct Item
-    {
-        public string Name { get; set; }
-        public double Price { get; set; }
-    }
-        
+
     }
 }
